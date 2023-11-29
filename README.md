@@ -1,16 +1,33 @@
-### Hi there 👋
+# ¡Hola! Soy Gonzalo Arana 👋
 
-<!--
-**aranagonzalo/aranagonzalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Me dedico al desarrollo web desde hace 4 años. Comencé mi viaje en el mundo tech de manera autodidacta y he acumulado experiencia con certificaciones de instituciones como Harvard, Udemy, HENRY, entre otras.
 
-Here are some ideas to get you started:
+## ¿Qué hago?
+Actualmente, trabajo de manera independiente proporcionando soluciones de desarrollo web, desde páginas de landing hasta aplicaciones estilo single-page con API y bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack de tecnologías 🔭
+Las principales tecnologías con las que trabajo en el mundo tech son:
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- PostgreSQL
+- MongoDB
+- MySQL
+- Framer Motion
+- Next.js
+- Redux
+- Sequelize
+- GIT
+- Express.js
+- Entre otras
+
+Además, tengo experiencia en el uso de herramientas como Figma y Jira Software.
+
+## Links de contacto 😊
+- [LinkedIn](https://linkedin.com/in/aranagonzalo)
+- Email: gonzaloaranam@gmail.com
+
