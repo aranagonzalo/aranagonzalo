@@ -13,6 +13,7 @@ Las principales tecnologías con las que trabajo en el mundo tech son:
 - CSS
 - JavaScript
 - Relay
+- Apollo Client
 - Graphql
 - React.js
 - Node.js
@@ -26,7 +27,7 @@ Las principales tecnologías con las que trabajo en el mundo tech son:
 - Express.js
 - Entre otras
 
-Además, tengo experiencia en el uso de herramientas como Figma, Linear y Jira Software.
+Además, tengo experiencia en el uso de herramientas como Figma, Linear, Slack y Jira Software.
 
 ## Links de contacto 😊
 - [LinkedIn](https://linkedin.com/in/aranagonzalo)
