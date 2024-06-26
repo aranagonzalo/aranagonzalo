@@ -1,35 +1,33 @@
-# ¡Hola! Soy Gonzalo Arana 👋
+#Hello! I'm Gonzalo Arana 👋
+##About Me
+I have been dedicated to web development for 3 years. I began my journey in the tech world as a self-taught learner and have accumulated experience with certifications from institutions like Harvard, HENRY, Udemy, Google, and others.
 
-## Sobre mí
-Me dedico al desarrollo web desde hace 3 años. Comencé mi viaje en el mundo tech de manera autodidacta y he acumulado experiencia con certificaciones de instituciones como Harvard, Udemy, HENRY, Google, entre otras.
+##What Do I Do?
+Currently, I work as a Software Engineer at Abiie. I am responsible for developing the front end using Next.js and Apollo Client to structure information obtained from GraphQL.
 
-## ¿Qué hago?
-Actualmente, trabajo como Junior Software Engineer en Parrade. Me encargo de desarrollar el front-end utilizando React-Relay para estructurar la informacion obtenida de federaciones de Graphql.
+##Tech Stack 🔭
+The main technologies I work with in the tech world are:
 
-## Stack de tecnologías 🔭
-Las principales tecnologías con las que trabajo en el mundo tech son:
+HTML
+CSS
+JavaScript
+Relay
+Apollo Client
+GraphQL
+React.js
+Node.js
+PostgreSQL
+MongoDB
+MySQL
+Next.js
+Redux
+Sequelize
+GIT
+Express.js
+Among others
+Additionally, I have experience using tools like Figma, Linear, Slack, and Jira Software.
 
-- HTML
-- CSS
-- JavaScript
-- Relay
-- Apollo Client
-- Graphql
-- React.js
-- Node.js
-- PostgreSQL
-- MongoDB
-- MySQL
-- Next.js
-- Redux
-- Sequelize
-- GIT
-- Express.js
-- Entre otras
-
-Además, tengo experiencia en el uso de herramientas como Figma, Linear, Slack y Jira Software.
-
-## Links de contacto 😊
-- [LinkedIn](https://linkedin.com/in/aranagonzalo)
-- Email: gonzaloaranam@gmail.com
+##Contact Links 😊
+LinkedIn
+Email: gonzaloaranam@gmail.com
 
